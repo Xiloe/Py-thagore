@@ -5,8 +5,6 @@ Ferriere Tom
 
 from math import sqrt
 
-# details = bool(input("[?] Afficher les details de calcul (True | False): "))
-
 xA=int(input("[>] Donner l'abscisse de A: "))
 yA=int(input("[>] Donner l'ordonnée de A: "))
 
